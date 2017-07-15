@@ -1,0 +1,21 @@
+{
+  "name": "bot",
+  "scripts": {
+  },
+  "env": {
+    "PAGE_ACCESS_TOKEN": {
+      "required": true
+    },
+    "WIT_TOKEN": {
+      "required": true
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
